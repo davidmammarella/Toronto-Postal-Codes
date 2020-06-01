@@ -2,4 +2,4 @@ A cluster analysis of neighbourhoods in Toronto, focused on the downtown Toronto
 
 The analysis begins with the scrapping of a website to obtain the postal codes of the Toronto neighbourhoods.
 
-Then the latitue and longitude of these neighbourhoods are connected through another dataset to be able to build a map of the neighbourhoods of Toronto. 
+Then the latitue and longitude of these neighbourhoods are merged with the data using another dataset to be able to build a map of the neighbourhoods of Toronto. 
